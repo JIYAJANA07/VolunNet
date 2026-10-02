@@ -36,4 +36,4 @@ VolunNet is a Volunteer Coordination Platform backend built using Node.js, Expre
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/JIYAJANA07/VolunNet.git
